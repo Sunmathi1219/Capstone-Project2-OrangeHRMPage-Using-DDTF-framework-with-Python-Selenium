@@ -113,5 +113,3 @@ This project contains the following three test cases:
            The User should be able to see the above mentioned Admin page Menu items on Admin page
 
 
-Expected Result:
-           The User should be able to see the above mentioned Admin page Menu items on Admin page
