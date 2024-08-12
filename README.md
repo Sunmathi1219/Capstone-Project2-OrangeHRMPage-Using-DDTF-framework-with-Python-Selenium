@@ -1,7 +1,7 @@
 
 ##  Tittle Of Project
 
-OrangeHRM Web Page Automation- Project1
+OrangeHRM Web Page Automation- Project2
 
 ## Table of Contents:
        About OrangeHRM
